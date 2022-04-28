@@ -95,13 +95,36 @@
       "runningTime": "2h 36m",
       "genre": ["Musical", "Drama"],
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/west-side-story.jpg"
+    },
+    {
+      "id": 1013,
+      "title": "The Lion King",
+      "year": 1994,
+      "runningTime": "1h 28m",
+      "genre": ["Animation", "Adventure", "Drama"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-lion-king.jpg"
+    },
+    {
+      "id": 1014,
+      "title": "Rocky",
+      "year": 1976,
+      "runningTime": "2h",
+      "genre": ["Drama", "Sport"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/rocky.jpg"
+    },
+    {
+      "id": 1015,
+      "title": "Gone in 60 Seconds",
+      "year": 2000,
+      "runningTime": "1h 58m",
+      "genre": ["Action", "Crime", "Thriller"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/west-side-story.jpg"
     }
   ],
   "meta": {
+    "project": "Movies API",
     "author": "Andre Specht",
-    "email": "andrespecht@outlook.com",
-    "url": "api.andrespecht.dev",
-    "items": 12
+    "url": "movies.andrespecht.dev",
+    "items": 15
   }
 }
-  
