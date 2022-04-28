@@ -23,6 +23,7 @@ async function getMovies() {
     if (!response.ok) {
       throw new Error(`${response.statusText} (${response.status})`);
     }
+    // Parsing the reponse as JSON
     const data = await response.json();
     // Printing the movies
     console.table(data.results);
