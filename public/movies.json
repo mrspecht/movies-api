@@ -1,11 +1,25 @@
 {
   "results": [
     {
+      "title": "Jurassic Park",
+      "year": 1993,
+      "runningTime": "2h 7m",
+      "genre": ["Adventure", "Action", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/jurassic-park.jpg"
+    },
+    {
       "title": "Eternals",
       "year": 2021,
       "runningTime": "2h 37m",
       "genre": ["Action", "Adventure", "Fantasy"],
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/eternals.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "runningTime": "2h 16m",
+      "genre": ["Action", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-matrix.jpg"
     },
     {
       "title": "F9: The Fast Saga",
@@ -29,14 +43,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/no-time-to-die.jpg"
     },
     {
-      "title": "The Matrix",
-      "year": 1999,
-      "runningTime": "2h 16m",
-      "genre": ["Action", "Sci-Fi"],
-      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-matrix.jpg"
-    },
-    {
-      "id": 1006,
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "year": 2021,
       "runningTime": "2h 12m",
@@ -44,7 +50,13 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/shang-chi.jpg"
     },
     {
-      "id": 1007,
+      "title": "Rocky",
+      "year": 1976,
+      "runningTime": "2h",
+      "genre": ["Drama", "Sport"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/rocky.jpg"
+    },
+    {
       "title": "Spider-Man: No Way Home",
       "year": 2021,
       "runningTime": "2h 30m",
@@ -52,19 +64,18 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/no-way-home.jpg"
     },
     {
-      "id": 1008,
-      "title": "Venom: Let There Be Carnage",
-      "year": 2021,
-      "runningTime": "1h 37m",
-      "genre": ["Action", "Adventure", "Sci-Fi"],
-      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/venom-2.jpg"
-    },
-    {
       "title": "Terminator 2: Judgment Day",
       "year": 1991,
       "runningTime": "2h 17m",
       "genre": ["Action", "Sci-Fi"],
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/terminator-2.jpg"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "runningTime": "1h 37m",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/venom-2.jpg"
     },
     {
       "title": "The Batman",
@@ -95,13 +106,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-lion-king.jpg"
     },
     {
-      "title": "Rocky",
-      "year": 1976,
-      "runningTime": "2h",
-      "genre": ["Drama", "Sport"],
-      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/rocky.jpg"
-    },
-    {
       "title": "Gone in 60 Seconds",
       "year": 2000,
       "runningTime": "1h 58m",
@@ -110,10 +114,10 @@
     }
   ],
   "info": {
-    "project": "Simple static API",
+    "project": "Simple static API for students",
+    "version": "1.0.2",
     "author": "Andre Specht",
     "url": "movies.andrespecht.dev",
-    "results": 15,
-    "version": "1.0.1"
+    "results": 16
   }
 }
