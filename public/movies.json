@@ -1,7 +1,6 @@
 {
   "results": [
     {
-      "id": 1001,
       "title": "Eternals",
       "year": 2021,
       "runningTime": "2h 37m",
@@ -9,7 +8,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/eternals.jpg"
     },
     {
-      "id": 1002,
       "title": "F9: The Fast Saga",
       "year": 2021,
       "runningTime": "2h 25m",
@@ -17,7 +15,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/fast-9.jpg"
     },
     {
-      "id": 1003,
       "title": "JFK",
       "year": 1991,
       "runningTime": "3h 26m",
@@ -25,7 +22,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/jfk.jpg"
     },
     {
-      "id": 1004,
       "title": "No Time to Die",
       "year": 2021,
       "runningTime": "2h 43m",
@@ -33,7 +29,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/no-time-to-die.jpg"
     },
     {
-      "id": 1005,
       "title": "The Matrix",
       "year": 1999,
       "runningTime": "2h 16m",
@@ -65,7 +60,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/venom-2.jpg"
     },
     {
-      "id": 1009,
       "title": "Terminator 2: Judgment Day",
       "year": 1991,
       "runningTime": "2h 17m",
@@ -73,7 +67,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/terminator-2.jpg"
     },
     {
-      "id": 1010,
       "title": "The Batman",
       "year": 2022,
       "runningTime": "2h 59m",
@@ -81,7 +74,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-batman.jpg"
     },
     {
-      "id": 1011,
       "title": "The Exorcist",
       "year": 1973,
       "runningTime": "2h 20m",
@@ -89,7 +81,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-exorcist.jpg"
     },
     {
-      "id": 1012,
       "title": "West Side Story",
       "year": 2021,
       "runningTime": "2h 36m",
@@ -97,7 +88,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/west-side-story.jpg"
     },
     {
-      "id": 1013,
       "title": "The Lion King",
       "year": 1994,
       "runningTime": "1h 28m",
@@ -105,7 +95,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-lion-king.jpg"
     },
     {
-      "id": 1014,
       "title": "Rocky",
       "year": 1976,
       "runningTime": "2h",
@@ -113,7 +102,6 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/rocky.jpg"
     },
     {
-      "id": 1015,
       "title": "Gone in 60 Seconds",
       "year": 2000,
       "runningTime": "1h 58m",
@@ -121,10 +109,11 @@
       "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/gone-in-60-seconds.jpg"
     }
   ],
-  "meta": {
-    "project": "Movies API",
+  "info": {
+    "project": "Simple static API",
     "author": "Andre Specht",
     "url": "movies.andrespecht.dev",
-    "items": 15
+    "results": 15,
+    "version": "1.0.1"
   }
 }
