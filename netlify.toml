@@ -2,7 +2,7 @@
   publish = "public/"
 
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "/movies.json"
   status = 200
   force = true
