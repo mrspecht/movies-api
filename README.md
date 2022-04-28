@@ -10,7 +10,7 @@ access the list of movies provided by the API. This list, an array of objects,
 is returned by ```results```.
 
 ```javascript
-const url = 'https://movies.andrespecht.dev';
+const url = 'https://movies.andrespecht.dev'
 
 const options = {
   method: 'GET',
