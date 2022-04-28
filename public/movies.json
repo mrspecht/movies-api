@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "id": 1001,
+      "title": "Eternals",
+      "year": 2021,
+      "runningTime": "2h 37m",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/eternals.jpg"
+    },
+    {
+      "id": 1002,
+      "title": "F9: The Fast Saga",
+      "year": 2021,
+      "runningTime": "2h 25m",
+      "genre": ["Action", "Crime", "Thriller"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/fast-9.jpg"
+    },
+    {
+      "id": 1003,
+      "title": "JFK",
+      "year": 1991,
+      "runningTime": "3h 26m",
+      "genre": ["Drama", "History", "Thriller"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/jfk.jpg"
+    },
+    {
+      "id": 1004,
+      "title": "No Time to Die",
+      "year": 2021,
+      "runningTime": "2h 43m",
+      "genre": ["Action", "Adventure", "Thriller"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/no-time-to-die.jpg"
+    },
+    {
+      "id": 1005,
+      "title": "The Matrix",
+      "year": 1999,
+      "runningTime": "2h 16m",
+      "genre": ["Action", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-matrix.jpg"
+    },
+    {
+      "id": 1006,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "runningTime": "2h 12m",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/shang-chi.jpg"
+    },
+    {
+      "id": 1007,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "runningTime": "2h 30m",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/no-way-home.jpg"
+    },
+    {
+      "id": 1008,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "runningTime": "1h 37m",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/venom-2.jpg"
+    },
+    {
+      "id": 1009,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "runningTime": "2h 17m",
+      "genre": ["Action", "Sci-Fi"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/terminator-2.jpg"
+    },
+    {
+      "id": 1010,
+      "title": "The Batman",
+      "year": 2022,
+      "runningTime": "2h 59m",
+      "genre": ["Action", "Crime", "Drama"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-batman.jpg"
+    },
+    {
+      "id": 1011,
+      "title": "The Exorcist",
+      "year": 1973,
+      "runningTime": "2h 20m",
+      "genre": ["Horror"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/the-exorcist.jpg"
+    },
+    {
+      "id": 1012,
+      "title": "West Side Story",
+      "year": 2021,
+      "runningTime": "2h 36m",
+      "genre": ["Musical", "Drama"],
+      "img": "https://raw.githubusercontent.com/mrspecht/movies/main/public/img/west-side-story.jpg"
+    }
+  ],
+  "meta": {
+    "author": "Andre Specht",
+    "email": "andrespecht@outlook.com",
+    "url": "api.andrespecht.dev",
+    "items": 12
+  }
+}
+  
