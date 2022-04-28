@@ -1,7 +1,7 @@
 ## Movies API
 
-**Movies** is a simple static API designed for IT students who want to get 
-familiar with using APIs in web applications.
+**Movies** is a simple static API (Application Programming Interface) designed 
+for IT students who want to get familiar with using APIs in web applications.
 
 ### How to use
 
