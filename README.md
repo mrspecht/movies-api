@@ -7,7 +7,7 @@ for IT students who want to get familiar with using APIs in web applications.
 
 You can use ```fetch``` (learn [here](https://github.com/mrspecht/fetch-api)) to 
 access the list of movies provided by the API. The list - an array of objects -  
-comes from the ```results``` object.
+is in the ```results``` object.
 
 ```javascript
 const url = 'https://movies.andrespecht.dev';
