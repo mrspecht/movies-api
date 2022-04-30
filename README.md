@@ -1,5 +1,8 @@
 ## Movies API
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7334fbdc-4909-4ab6-b5b9-14ec037326b2/deploy-status)](https://app.netlify.com/sites/andre-specht-dev/deploys)
+
+
 **Movies** is a simple static API (Application Programming Interface) designed 
 for IT students who want to get familiar with using APIs in web applications.
 
