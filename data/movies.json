@@ -106,6 +106,13 @@
       "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/gone-in-60-seconds.jpg"
     },
     {
+      "title": "Titanic",
+      "year": 1999,
+      "runningTime": "3h 14m",
+      "genre": ["Drama", "Romance"],
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/titanic.jpg"
+    },
+    {
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "year": 2021,
       "runningTime": "2h 12m",
@@ -118,13 +125,6 @@
       "runningTime": "2h 55m",
       "genre": ["Crime", "Drama"],
       "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-godfather.jpg"
-    },
-    {
-      "title": "Titanic",
-      "year": 1999,
-      "runningTime": "3h 14m",
-      "genre": ["Drama", "Romance"],
-      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/titanic.jpg"
     },
     {
       "title": "The Remains of the Day",
