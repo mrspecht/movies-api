@@ -1,6 +1,6 @@
 ## Movies API
 
-**Movies** is a simple static API (Application Programming Interface) designed 
+**Movies** is a simple API (Application Programming Interface) designed 
 for IT students who want to get familiar with using APIs in web applications.
 
 ### How to use
@@ -33,4 +33,25 @@ async function getMovies() {
 };
 
 getMovies();
+```
+
+### Results
+
+```json
+{
+  "title": "Jurassic Park",
+  "year": 1993,
+  "runningTime": "2h 7m",
+  "genre": ["Adventure", "Action", "Sci-Fi"],
+  "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/jurassic-park.jpg"
+},
+{
+  "title": "Eternals",
+  "year": 2021,
+  "runningTime": "2h 37m",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/eternals.jpg"
+}
+
+[...]
 ```
