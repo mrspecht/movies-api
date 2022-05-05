@@ -35,23 +35,14 @@ async function getMovies() {
 getMovies();
 ```
 
-### Results
+### Movie object
 
-```json
+```javascript
 {
   "title": "Jurassic Park",
   "year": 1993,
   "runningTime": "2h 7m",
   "genre": ["Adventure", "Action", "Sci-Fi"],
   "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/jurassic-park.jpg"
-},
-{
-  "title": "Eternals",
-  "year": 2021,
-  "runningTime": "2h 37m",
-  "genre": ["Action", "Adventure", "Fantasy"],
-  "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/eternals.jpg"
 }
-
-[...]
 ```
