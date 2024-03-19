@@ -10,7 +10,7 @@ access the list of movies provided by the API. The list - an array of objects -
 is in the ```response``` object.
 
 ```javascript
-const url = 'https://api.andrespecht.dev/movies';
+const URL = 'https://api.andrespecht.dev/movies';
 
 const options = {
   method: 'GET',
@@ -19,13 +19,13 @@ const options = {
 
 async function getMovies() {
   try {
-    const response = await fetch(url, options);
+    const response = await fetch(URL, options);
     if (!response.ok) {
       throw new Error(`${response.statusText} (${response.status})`);
     }
     // Parsing the reponse as JSON
     const data = await response.json();
-    // Printing the movies
+    // The 'response' object contains an array of movies
     console.table(data.response);
   } catch(error) {
     console.log(error);
@@ -35,9 +35,34 @@ async function getMovies() {
 getMovies();
 ```
 
-### Movie object
+### Fetching a specific movie
 
 ```javascript
+const options = {
+  method: 'GET',
+  mode: 'cors'
+};
+
+async function getMovie(movie) {
+  const URL = `https://api.andrespecht.dev/movie/${movie}`;
+
+  try {
+    const response = await fetch(URL, options);
+    if (!response.ok) {
+      throw new Error(`${response.statusText} (${response.status})`);
+    }
+    // Parsing the reponse as JSON
+    const data = await response.json();
+    // The 'response' object contains one movie object
+    console.log(data.response);
+  } catch(error) {
+    console.log(error);
+  }
+};
+
+getMovie('jurassic-park');
+
+// The resulting object
 {
   "title": "Jurassic Park",
   "year": 1993,
